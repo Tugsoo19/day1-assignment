@@ -9,6 +9,8 @@ body {
 
 h1 {
     font-size: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
 }
 
 .general {
@@ -33,6 +35,13 @@ input {
     border: none;
     border-bottom: solid 1px rgb(224, 224, 224);
     padding: 10px;
+}
+
+select {
+    border: none;
+    border-bottom: solid 1px rgb(224, 224, 224);
+    padding: 10px;
+    
 }
 
 .general h1 {
